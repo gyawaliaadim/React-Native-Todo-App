@@ -1,50 +1,66 @@
-# Welcome to your Expo app 👋
+## 📝 React Native To-Do App
+<img src="https://github.com/user-attachments/assets/c795ec61-4c32-4414-a211-43714f41451c" alt="Screen Shot" style="width:50%; height:auto;">
+<br>
+A simple and efficient To-Do application built with React Native and Expo. Manage your tasks seamlessly across web and mobile platforms.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
+## 🚀 Getting Started
+Prerequisites <br>
+Node.js installed on your machine. You can download it from Node.js Official Website.
+<br>
+Installation<br>
+Clone the repository:<br>
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
 ```
+git clone https://github.com/gyawaliaadim/react-native-todo-app.git
+```
+Navigate to the project directory:<br>
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+```
+cd react-native-todo-app
+```
+Install dependencies:
+```
+npm install
+```
+Running the App<br>
+# 📱 On Mobile Devices<br>
+Start the development server:<br>
 
-## Learn more
+```
+npm start
+```
+This will initiate the Expo development server.<br>
 
-To learn more about developing your project with Expo, look at the following resources:
+Install Expo Go on your mobile device:<br>
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Expo Go for Android<br>
 
-## Join the community
+Expo Go for iOS<br>
 
-Join our community of developers creating universal apps.
+Scan the QR code displayed in your terminal using the Expo Go app to launch the application on your device.<br>
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# 💻 On Web<br>
+Start the development server (if not already running):<br>
+
+```
+npm start
+```
+Press w in the terminal to open the app in your default web browser.<br>
+
+Alternatively, navigate to http://localhost:8081 (or the port specified in your terminal) in your browser.<br>
+
+Note: If port 8081 is occupied, Expo will prompt to use another port, such as 8082.<br>
+<br>
+Hope you all enjoy it<br>
+## 📸 Screenshots
+
+<img src="https://github.com/user-attachments/assets/419414d0-b751-4fb3-8d92-a26ba1cda104" alt="Screenshot" style="width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/cf46b529-7a5f-4e80-84b1-342d7fa46777" alt="Screenshot" style="width:50%; height:auto;">
+
+## - Aadim Gyawali
+
